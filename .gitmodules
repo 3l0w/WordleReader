@@ -1,0 +1,9 @@
+[submodule "lib/WordleSolver"]
+	path = lib/WordleSolver
+	url = https://github.com/3l0w/WordleSolver.git
+[submodule "lib/libuiohook"]
+	path = lib/libuiohook
+	url = https://github.com/kwhat/libuiohook.git
+[submodule "lib/color"]
+	path = lib/color
+	url = https://github.com/3l0w/color.git
